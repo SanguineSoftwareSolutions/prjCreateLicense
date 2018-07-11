@@ -5,10 +5,6 @@
  */
 package com.License.controller;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Map;
-
 /**
  *
  * @author Sanguine
@@ -31,6 +27,7 @@ public class clsClientDetails
     private String strContactNo;
     private String strEmailId;
     private String strBillRegeneration;
+    private String strModuleNames;
 
     public clsClientDetails(String id, String Client_Name,String outletName, String installDate, String expiryDate, String posVersion, String intMAXTerminal, clsSMSPackDtl smsPackDtl, String intMAXAPOSTerminals, String comments,
 	    String strContactPerson, String strContactNo, String strEmailId, String billRegeneration)
@@ -192,6 +189,16 @@ public class clsClientDetails
     public void setStrOutletName(String strOutletName)
     {
 	this.strOutletName = strOutletName;
+    }
+
+    public String getStrModuleNames()
+    {
+	return strModuleNames;
+    }
+
+    public void setStrModuleNames(String strModuleNames)
+    {
+	this.strModuleNames = strModuleNames;
     }
 
   

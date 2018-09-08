@@ -386,6 +386,10 @@ public class clsGenerateLicense
 	    //"258.001", "SAI MADHUBAN HOSPITALITY PVT LTD" WebStocks license
 	    inputMapClientDtl.put("259.001", new clsClientDetails("259.001", "PENTAGON INDIA RETAIL PVT LTD", "Universal Barbeque", "2018-08-24", "2018-09-24", "Enterprise", "4", objNoSMSPackDtl, "6", "(MUMBAI)//released on 24-08-2018 for 1 month till 24-09-2018 for 4 SPOS ,6 APOS,1 WebStocks,No SMS Pack,No Bill Deletion.", "Mr.Amod", "9833007521", "amodptc@gmail.com", "No Bill Deletion"));
 	    inputMapClientDtl.put("260.001", new clsClientDetails("260.001", "PARAG HOTELS AND RESORT PVT LTD", "BLACKLISTED", "2018-09-06", "2019-09-05", "Enterprise", "4", objNoSMSPackDtl, "3", "(MUMBAI)//released on 06-09-2018 for 1 year till 05-09-2019 for 4 SPOS ,3 APOS,No WebStocks,No SMS Pack,No Bill Deletion.", "Mr.Hussin", "9820099765", "hussin.blacklisted@gmail.com", "No Bill Deletion"));
+	    //Africa International
+	    inputMapClientDtl.put("261.001", new clsClientDetails("261.001", "KIN DELICIEUX", "KIN DELICIEUX", "2018-09-08", "2019-09-08", "Enterprise", "6", objNoSMSPackDtl, "7", "(AFRICA)//released on 08-09-2018 for 1 year till 08-09-2019 for 6 SPOS ,7 APOS,1 WebStocks,No SMS Pack,No Bill Deletion.", "Mr.Gangadar", "9819638239", "Gangadar.slp@gmail.com", "No Bill Deletion"));
+	    inputMapClientDtl.put("262.001", new clsClientDetails("262.001", "COCO JAMBO", "COCO JAMBO", "2018-09-08", "2019-09-08", "Enterprise", "6", objNoSMSPackDtl, "7", "(AFRICA)//released on 08-09-2018 for 1 year till 08-09-2019 for 6 SPOS ,7 APOS,1 WebStocks,No SMS Pack,No Bill Deletion.", "Mr.Gangadar", "9819638239", "Gangadar.slp@gmail.com", "No Bill Deletion"));
+	    inputMapClientDtl.put("263.001", new clsClientDetails("263.001", "FIEST CLUB", "FIEST CLUB", "2018-09-08", "2019-09-08", "Enterprise", "6", objNoSMSPackDtl, "13", "(AFRICA)//released on 08-09-2018 for 1 year till 08-09-2019 for 6 SPOS ,13 APOS,1 WebStocks,No SMS Pack,No Bill Deletion.", "Mr.Gangadar", "9819638239", "Gangadar.slp@gmail.com", "No Bill Deletion"));
 	}
 	catch (Exception e)
 	{

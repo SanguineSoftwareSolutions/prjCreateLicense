@@ -99,7 +99,7 @@
  092.001 Please provide client details(Contact person,contact no.,email id) to generate the license
  092.002 Please provide client details(Contact person,contact no.,email id) to generate the license
  092.003 Please provide client details(Contact person,contact no.,email id) to generate the license
- 093.001 Please provide client details(Contact person,contact no.,email id) to generate the license
+/*093.001*/hmClientDtl.put("uFqaYF0Vrgc=", createClientDetails("uFqaYF0Vrgc=", "QP8MClzhjRGTeK+UQQRR6g==","QP8MClzhjRGTeK+UQQRR6g==" ,"EC+A5mX5iKsH7caFhKEM5g==", "+lRrQkFb4/jvdLAOSLlVxQ==", "6Qxczms3sj76Qx68WF5Dxg==", "H9FpIRnwbF4=", "YOh9Xl44+ww=", new clsSMSPackDtl("", "", "", "8i4QfDYU5yTZsJpwKrzqVw=="), "90+OjvSZXlxDNahYFRqfcMFzT3fQUV6BI0AulEu3YQ5GRIIh5U36Yp1ix97I9kOaLneKFFSPvhQjbWXW8i73W7VwXxX7H9YA/RA4EWgA++suqrxOyQPaHQ==", "WsNz4anYZlCJxXBTgenTzQ==", "kjCabiqktrCZgcUa41Jz1g==", "sOJi1nKp6gbkqtXEOrISkaSChy3eHphX", "MC4AXLjnYAOFDyqMSqQYNRHLILscBQzH"));
  094.001 Please provide client details(Contact person,contact no.,email id) to generate the license
  095.001 Please provide client details(Contact person,contact no.,email id) to generate the license
  096.001 Please provide client details(Contact person,contact no.,email id) to generate the license

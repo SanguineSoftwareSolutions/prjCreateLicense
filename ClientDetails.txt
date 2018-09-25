@@ -93,7 +93,7 @@
 086.001!NAUGHTY ANGEL CAFE!!2015-10-23!2018-12-23!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!//licence extended on 23-11-2017,renewed on 26-12-2017 for 1 year till 23-12-2018
 087.001!MADHUKAR RESTAURANT!!2015-11-18!2018-11-18!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!//renewed on 18-11-2017 for 1 year till 18-11-2018
 088.001!A&K HOSPITALITY!!2015-11-24!2018-03-04!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!//renewed on 06-03-2016 for 1 year
-089.001!CAFFA!!2015-12-17!2018-10-03!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!! //JORUP ENTERPRISE LLP renamed to CAFFA (GUFTOZU)// renewed on 03-10-2017 till 03-10-2018 
+089.001!CAFFA!CAFFA!2015-12-17!2019-10-03!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Riyaz!9769207103!caffabaner@gmail.com!//JORUP ENTERPRISE LLP renamed to CAFFA (GUFTOZU)//renewed on 25-09-2018 for 1 year till 03-10-2019// renewed on 03-10-2017 till 03-10-2018 
 090.001!Mathura a fusion of pure VEG!!2015-12-22!2018-12-22!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!//renewed on 22-12-2016 by 1 year,renewed on 24-12-2017 for 1 year.
 091.001!Gourmet Gelato Company Pvt. Ltd.!!2015-12-23!2016-01-23!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!// Payment not received.
 092.001!Shree Sound Pvt Ltd!Outlet 1!2016-01-08!2018-12-20!Enterprise!100 SPOS,0 APOS,No WebStocks,No Bill Deletion,Transactional!!!!//HO  Waters  renewed on 19-12-2017 to 1 year till 20-12-2018

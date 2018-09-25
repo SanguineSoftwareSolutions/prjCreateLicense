@@ -13,7 +13,7 @@ public class clsClientDetails
 {
 
     private String strClientCode;
-    private String strClientName;
+    private String strClientName;    
     private String strOutletName;
     private String dteInstallationDate;
     private String dteExpiryDate;
@@ -28,9 +28,11 @@ public class clsClientDetails
     private String strEmailId;
     private String strBillRegeneration;
     private String strModuleNames;
+    private String strClientPassword;
+    
 
     public clsClientDetails(String id, String Client_Name,String outletName, String installDate, String expiryDate, String posVersion, String intMAXTerminal, clsSMSPackDtl smsPackDtl, String intMAXAPOSTerminals, String comments,
-	    String strContactPerson, String strContactNo, String strEmailId, String billRegeneration)
+	    String strContactPerson, String strContactNo, String strEmailId, String billRegeneration,String clientPassword)
     {
 
 	this.strClientCode = id;
@@ -48,6 +50,7 @@ public class clsClientDetails
 	this.strEmailId = strEmailId;
 	this.strBillRegeneration = billRegeneration;
 	this.strOutletName=outletName;
+	this.strClientPassword=clientPassword;
 
     }
 
@@ -199,6 +202,16 @@ public class clsClientDetails
     public void setStrModuleNames(String strModuleNames)
     {
 	this.strModuleNames = strModuleNames;
+    }
+
+    public String getStrClientPassword()
+    {
+	return strClientPassword;
+    }
+
+    public void setStrClientPassword(String strClientPassword)
+    {
+	this.strClientPassword = strClientPassword;
     }
 
   

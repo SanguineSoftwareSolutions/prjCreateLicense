@@ -17,10 +17,11 @@
 021.001!Mezbaan Carters Blue!!2014-08-13!2014-11-10!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!
 022.001!MR Fried Chicken!!2014-09-23!2019-08-14!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Pankaj!9769986445!Pankajsds@hotmail.com!// renewed on 14-08-2017 for 1 year // renewed on 06-08-2018 for 1 year
 023.001!SID Hospitality!!2014-09-23!2015-10-15!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!
-024.001!Eden Cake Shop!!2014-09-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!// Outlet 1 HO 
-024.002!Eden Cake Shop!!2015-09-17!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!// Outlet 2 Lokhandwala
-024.003!Eden Cake Shop!!2016-03-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!// Outlet 3 Cl.. Road
-024.004!Eden Cake Shop!!2016-03-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!// Outlet 4 Call Center
+024.001!Eden Cake Shop!!2014-09-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Salim Bhai!9820141743!salimsheliya@gmail.com!// Outlet 1 HO 
+024.002!Eden Cake Shop!!2015-09-17!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Salim Bhai!9820141743!salimsheliya@gmail.com!// Outlet 2 Lokhandwala
+024.003!Eden Cake Shop!!2016-03-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Salim Bhai!9820141743!salimsheliya@gmail.com!// Outlet 3 Cl.. Road
+024.004!Eden Cake Shop!!2016-03-23!2018-12-31!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Salim Bhai!9820141743!salimsheliya@gmail.com!// Outlet 4 Call Center
+024.005!Eden Cake Shop!!2018-09-26!2018-10-26!Enterprise!10 SPOS,0 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Salim Bhai!9820141743!salimsheliya@gmail.com!// Outlet 5 Malad//release on 26-09-2018 for 1 month till 26-10-2018 for 10 SPOS,0 APOS, No WebStocks,No Bill Deletion
 025.001!Dravidas Bistro!!2014-10-02!2015-10-15!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!
 026.000!CREATIVE FOODS!!2015-07-08!2016-07-08!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!//HO Licence
 026.001!FUNBITEZ!!2014-09-23!2017-05-25!Enterprise!100 SPOS,1 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!!!!
@@ -320,3 +321,4 @@
 263.001!FIESTA CLUB!FIESTA CLUB!2018-09-08!2019-09-08!Enterprise!6 SPOS,13 APOS,1 WebStocks,No Bill Deletion,NOSMSPACK!Mr.Gangadar!9819638239!Gangadar.slp@gmail.com!(AFRICA)//released on 08-09-2018 for 1 year till 08-09-2019 for 6 SPOS ,13 APOS,1 WebStocks,No SMS Pack,No Bill Deletion.
 264.001!TUK TUK TAXI!TUK TUK TAXI!2018-09-19!2019-09-19!Enterprise!4 SPOS,0 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr.Rohit!+96891703341!Rohit_1971@gmail.com!(Oman,Muscat)//released on 19-09-2018 for 1 year till 19-09-2019 for 4 SPOS ,0 APOS,0 WebStocks,No SMS Pack,No Bill Deletion.
 265.001!COO DESSERT CAFE!COO FLEA!2018-09-22!2019-09-22!Enterprise!2 SPOS,0 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr. Kiran Salaskar!9820056812!kiran@countryoforigin.in!(Mumbai)//released on 22-09-2018 for 1 year till 22-09-2019 for 2 SPOS ,0 APOS,0 WebStocks,No SMS Pack,No Bill Deletion.
+266.001!KBK HOSPITALITY PVT LTD!3D UFO & SKY DHABA!2018-09-26!2019-09-26!Enterprise!6 SPOS,3 APOS,No WebStocks,No Bill Deletion,NOSMSPACK!Mr.Pappu Singh!9323694934!Kbkhospitalitypvtltd.1@gmail.com!(Mumbai)//released on 26-09-2018 for 1 year till 26-09-2019 for 6 SPOS ,3 APOS,0 WebStocks,No SMS Pack,No Bill Deletion.
